@@ -1,0 +1,29 @@
+small {
+  clear: both;
+  display: block;
+  padding-top: 20px;
+  cursor: pointer; }
+
+header {
+  width: 100%;
+  background-color: #999E9D;
+  padding: 15px; }
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  padding: 25px 0;
+  overflow: hidden; }
+  .container aside {
+    float: left;
+    width: 35%; }
+  .container section {
+    width: 60%;
+    float: right;
+    margin-left: 5%; }
+
+footer {
+  width: 100%;
+  background-color: #272822;
+  padding: 15px;
+  color: white; }

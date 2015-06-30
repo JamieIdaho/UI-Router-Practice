@@ -1,0 +1,10 @@
+<aside>
+  <ul>
+    <li ng-repeat="p in pretzels">
+      <a href="/#/{{ p.id }}">{{ p.type }}</a>
+    </li>
+  </ul>
+</aside>
+<section ui-view></section>
+
+<small ng-click="goHome()">Go on back home now, ya hear</small>
