@@ -1,9 +1,12 @@
 ## Welcome to My Angular Project
 
-> I am your Readme.md file, you should probably update me.
+This was an in-class demo using the angular ui-router. Showing nested views and different states.
 
 
 ## Usage
+
+If you would like to clone this app, run npm install and bower install before use.
+
 
 This template contains some simple `gulp` tasks. They are as follows:
 
